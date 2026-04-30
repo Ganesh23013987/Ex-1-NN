@@ -90,7 +90,7 @@ print(len(X_test))
 <img width="874" height="834" alt="image" src="https://github.com/user-attachments/assets/b232e551-4484-408f-8258-c7a577a375ac" />
 
 ### split the dataset
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/3ed707c0-061c-4a3a-8f06-036038cf8bb0" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/3ed707c0-061c-4a3a-8f06-036038cf8bb0" />
 
 ### Finding Missing Values
 <img width="667" height="328" alt="image" src="https://github.com/user-attachments/assets/bd4de803-abab-41d6-89d3-f747a59f33a5" />

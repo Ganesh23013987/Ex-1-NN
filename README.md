@@ -86,16 +86,21 @@ print(len(X_test))
 ```
 
 ## OUTPUT:
+### Read the dataset
 <img width="874" height="834" alt="image" src="https://github.com/user-attachments/assets/b232e551-4484-408f-8258-c7a577a375ac" />
 
+### split the dataset
 <img width="667" height="328" alt="image" src="https://github.com/user-attachments/assets/bd4de803-abab-41d6-89d3-f747a59f33a5" />
 
-
+### Finding Missing Values
 <img width="728" height="345" alt="image" src="https://github.com/user-attachments/assets/a20db9ed-f969-45d2-bbe5-bcd5b825ef85" />
 
+### Handling Missing values
 <img width="617" height="272" alt="image" src="https://github.com/user-attachments/assets/146f93ae-30fd-465c-ac40-cc360f47931a" />
 
+### Check for Duplicates
 <img width="994" height="557" alt="image" src="https://github.com/user-attachments/assets/ae1dcad9-4fbc-49ed-884f-117f14dc5b8b" />
+
 
 <img width="765" height="352" alt="image" src="https://github.com/user-attachments/assets/a0fe9ec4-78ae-4c43-b2cf-5cd2045b0681" />
 
